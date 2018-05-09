@@ -14,6 +14,9 @@ process.env.NODE_ENV = process.env.NODE_ENV || 'dev';
 //Entorno
 //=====================================================
 
+process.env.SEED = process.env.SEED || 'este-es-el-seed-desarrollo'
+
+
 //=====================================================
 //Vencimiento
 //=====================================================
